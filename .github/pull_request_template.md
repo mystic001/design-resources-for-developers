@@ -1,6 +1,6 @@
 `[LogoMaker] -> [Icons]`
 
-# Resource Name - Edit this line
+LogoMaker
 
 This resource allows you to make logos of your choice. The download link to this logo is sent to your email address , the file sent to your email address contains different format of your icon,  which are svg, png, eps, jpg
 
