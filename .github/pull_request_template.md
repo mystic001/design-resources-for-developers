@@ -1,10 +1,10 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+`[LogoMaker] -> [Icons]`
 
 # Resource Name - Edit this line
 
-Edit this line with Small Description about new added resource
+This resource allows you to make logos of your choice. The download link to this logo is sent to your email address , the file sent to your email address contains different format of your icon,  which are svg, png, eps, jpg
 
-Link: www.linkToResource
+Link: https://logomaker.thehoth.com/
 
 #### Checklist:
 
